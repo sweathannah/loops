@@ -6,8 +6,8 @@
 // #####
 // ######
 // #######
-let emptyString = ''
-for (let i = 1; i <= 10; i++) {
+let emptyString = '#'
+for (let i = 2; i <= 10; i++) {
         emptyString+= '#'
     console.log(emptyString);
 }
